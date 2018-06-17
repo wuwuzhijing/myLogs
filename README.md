@@ -7,3 +7,5 @@ Log information is nessceary for developing work. As an characteristic of tools,
 The first log lib is glog.
 - [glog](https://github.com/google/glog)
 
+branch1.0 test
+
